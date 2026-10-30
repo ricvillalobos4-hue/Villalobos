@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S.",
+  "description": "Interfaz interactiva tipo HUD de J.A.R.V.I.S. con armadura articulada en movimiento, memoria en Render Redis, síntesis de voz estilo Iron Man y Ultron, y conciencia impulsada por IA.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
